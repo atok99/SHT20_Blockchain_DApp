@@ -105,8 +105,13 @@ Frontend akan berjalan di `http://localhost:3000` dan terhubung dengan blockchai
 ```
 
 ## 📷 Screenshot
-
-*Tambahkan di sini tangkapan layar (opsional) dari DApp, Grafana, atau terminal TCP server*
+**TCP_SERVER**
+![alt text](https://github.com/atok99/SHT20_Blockchain_DApp/blob/main/TCP_SERVER.png?raw=true)
+**QT**
+![alt text](https://github.com/atok99/SHT20_Blockchain_DApp/blob/main/QT.png?raw=true)
+![alt text](https://github.com/atok99/SHT20_Blockchain_DApp/blob/main/tabelsensor.png?raw=true)
+**BOT TELEGRAM**
+![alt text](https://github.com/atok99/SHT20_Blockchain_DApp/blob/main/bot_tele.png?raw=true)
 
 ## 💡 Catatan
 
