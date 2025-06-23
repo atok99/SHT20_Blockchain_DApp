@@ -2,6 +2,7 @@
 
 ![alt text](https://github.com/atok99/SHT20_Blockchain_DApp/blob/main/TampilanDApp1.png?raw=true)
 ![alt text](https://github.com/atok99/SHT20_Blockchain_DApp/blob/main/TampilanDApp2.png?raw=true)
+![alt text](https://github.com/atok99/SHT20_Blockchain_DApp/blob/main/DAPP_TAbelpng?raw=true)
 
 ---
 
