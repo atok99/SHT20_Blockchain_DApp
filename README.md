@@ -9,7 +9,14 @@
 **SHT20_Blockchain_DApp** adalah proyek sistem monitoring suhu dan kelembaban berbasis sensor industri SHT20 (Modbus RTU) yang terintegrasi dengan blockchain untuk transparansi dan keamanan data. Proyek ini cocok untuk lingkungan industri seperti **Crude Oil Tank Monitoring** atau **data center**, yang membutuhkan pencatatan data real-time dan tidak dapat dimanipulasi.
 
 ## 👨‍💻 Author
+1. Rizal Khoirul Atok (2042231013)
+2. Muhammad Emir Hakim Z. (2042231069)
+3.  Daffa Naufal Wahyuaji (2042231081)
+4. Ahmad Radhy (Supervisor)
 
+Teknik Instrumentasi - Institut Teknologi Sepuluh Nopember
+
+---
 ## 📌 Fitur Utama
 
 - Membaca data suhu dan kelembaban dari sensor SHT20 via Modbus RTU.
