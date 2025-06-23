@@ -1,6 +1,6 @@
-# 🌡️ SHT20 Blockchain DApp - Industrial Monitoring with Web3
+# 🌡️ SHT20 Blockchain DApp - Industrial Crude Oil Monitoring with Web3
 
-**SHT20_Blockchain_DApp** adalah proyek sistem monitoring suhu dan kelembaban berbasis sensor industri SHT20 (Modbus RTU) yang terintegrasi dengan blockchain untuk transparansi dan keamanan data. Proyek ini cocok untuk lingkungan industri seperti **gudang fermentasi** atau **data center**, yang membutuhkan pencatatan data real-time dan tidak dapat dimanipulasi.
+**SHT20_Blockchain_DApp** adalah proyek sistem monitoring suhu dan kelembaban berbasis sensor industri SHT20 (Modbus RTU) yang terintegrasi dengan blockchain untuk transparansi dan keamanan data. Proyek ini cocok untuk lingkungan industri seperti **Crude Oil Tank Monitoring** atau **data center**, yang membutuhkan pencatatan data real-time dan tidak dapat dimanipulasi.
 
 ## 👨‍💻 Author
 
