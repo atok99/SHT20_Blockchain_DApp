@@ -1,6 +1,6 @@
 # 🌡️ SHT20 Blockchain DApp - Industrial Crude Oil Monitoring with Web3
 
-![alt text](https://github.com/atok99/SHT20_Blockchain_DApp/blob/main/Tampilan DApp 1.png?raw=true)
+![alt text](https://github.com/atok99/SHT20_Blockchain_DApp/blob/main/Tampilan DApp1.png?raw=true)
 
 ---
 
